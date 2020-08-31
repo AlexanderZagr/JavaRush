@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.slf4j">
+    <CLASSES>
+      <root url="file://D:/JavaRush Архивы/org.slf4j.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/JavaRush Архивы/org.slf4j.jar" recursive="false" />
+  </library>
+</component>

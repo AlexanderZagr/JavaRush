@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/4.JavaCollections/2.8.1/Classes/jackson-annotations-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/4.JavaCollections/2.8.1/Classes/jackson-core-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/4.JavaCollections/2.8.1/Classes/jackson-databind-2.8.1.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/2.JavaCore/src" />
+      <root url="file://$PROJECT_DIR$/3.JavaMultithreading/src" />
+      <root url="file://$PROJECT_DIR$/4.JavaCollections/src" />
+    </SOURCES>
+  </library>
+</component>
